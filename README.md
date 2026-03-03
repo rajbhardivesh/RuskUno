@@ -14,10 +14,10 @@ This repository contains:
 # 📸 Development Board
 
 ## Top View
-![RuskUno Top](images/board_top.jpg)
+![RuskUno Top](Images/board_top.jpg)
 
 ## Bottom View
-![RuskUno Bottom](images/board_bottom.jpg)
+![RuskUno Bottom](Images/board_bottom.jpg)
 
 ---
 
